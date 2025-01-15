@@ -31,6 +31,6 @@ This repository contains the work completed for Assignment 2 of the Artificial I
 - Presented a numerical example to showcase XGBoost's working.
 
 ### Additional Notes
-- All code and numerical examples are provided in the `Assignment 2-Notebook` notebook.
+- All code and numerical examples are provided in the notebook.
 - The notebook includes detailed explanations of the code for KNN, SVM, GBT, and XGBoost, adhering to the structure and format provided in the lectures.
 - Each algorithm's slides and illustrations have been integrated into the notebook for better clarity and understanding.
